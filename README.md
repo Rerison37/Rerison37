@@ -1,4 +1,4 @@
-# Hi, I'm Rerison Silva 👋
+# Hi, I'm Rerison 👋
 
 ### Full-Stack Developer · Artificial Intelligence Student
 
